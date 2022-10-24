@@ -18,6 +18,7 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
+import com.unmus.androidtraining.R
 import androidx.compose.ui.unit.dp
 import com.unmus.androidtraining.ui.theme.AndroidTrainingTheme
 import com.unmus.androidtraining.ui.theme.Purple200
